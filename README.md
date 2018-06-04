@@ -6,3 +6,5 @@ I will use this repository to learn and practice about data science and new tech
 ## Technologies
 1) Python 
 2) Jupyter Notebooks
+3) NumPy
+4) Pandas
